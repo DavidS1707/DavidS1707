@@ -1,9 +1,5 @@
-<h1 align="center">
-  <span style="display: inline-block; animation: wave 2s infinite">👋</span> Hi, I'm <span style="color: #3498db; font-weight: bold;">David Suarez</span>
-</h1>
-<h3 align="center">
-  <span style="color: #2ecc71;">Software Developer</span>
-</h3>
+<h1 align="center">Hi 👋, I'm David Suarez</h1>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **davsuar2000@gmail.com**
 
@@ -22,16 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davids1707&show_icons=true&locale=en" alt="davids1707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davids1707&" alt="davids1707" /></p>
-
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }
-    100% { transform: rotate(0.0deg); }
-  }
-</style>
