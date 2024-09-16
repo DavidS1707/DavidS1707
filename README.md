@@ -22,6 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davids1707&show_icons=true&locale=en" alt="davids1707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davids1707&" alt="davids1707" /></p>
+
 <style>
   @keyframes wave {
     0% { transform: rotate(0.0deg); }
