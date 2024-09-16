@@ -139,7 +139,7 @@
 <h4>Framework:</h4>
 <p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
   </a>
 </p>
 
