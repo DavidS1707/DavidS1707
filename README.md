@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **davsuar2000@gmail.com**
 
-<img alt="Coding" width="332" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"><img alt="Coding" width="332" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"><img alt="Coding" width="332" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"><img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"><img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 <h3 align="left">Contact me:</h3>
 
