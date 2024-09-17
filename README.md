@@ -1,6 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))](https://github.com/DavidS1707)
 <h1 align="center">Hi 👋, I'm David Suarez</h1>
 <h3 align="center">Software Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 - 📫 How to reach me **davsuar2000@gmail.com**
 
