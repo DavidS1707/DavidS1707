@@ -1,7 +1,7 @@
 [![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)]()
 <h1 align="center">Hi 👋🏻​, I'm David Suarez</h1>
 <h3 align="center">🚀Software Developer</h3>
-<img alt="Coding" align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img alt="Coding" align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 - 📫 How to reach me **davsuar2000@gmail.com**
